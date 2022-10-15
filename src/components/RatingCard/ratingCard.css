@@ -1,0 +1,83 @@
+.btn {
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    cursor: pointer;
+    border: 0px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.btn-1{
+    margin:1%;
+    background-color: #EA3F22;
+}
+
+.btn-2{
+    margin:1%;
+    background-color: #EF832D;    
+}
+
+.btn-3{
+    margin:1%;
+    background-color: #E1E24B;
+}
+
+.btn-4{
+    margin:1%;
+    background-color: #AEBE74;
+
+}
+
+.btn-5{
+    margin:1%;
+    background-color: #83E941;
+}
+
+
+.rating-card-container{
+    text-align: center;
+    margin: 10% 10% 3%;
+    border-radius: 10px;
+    padding: 10px 0;
+}
+
+.spot>h1{
+    margin: 10px;
+    font-family: "Roboto", sans-serif;
+    font-size: 1.5rem;
+    float: left;
+    
+}
+
+.spot{
+    display:flex;
+}
+
+.img-upload{
+    padding: 20px 50px;
+    display: flex;
+    margin-left: 10%;
+    margin-top: 10px;
+    border-radius: 20px;
+    border: 0;
+    background-color: #1e272e;
+    color: #fff;
+
+}
+
+.rating-card-container{
+    margin-top: 1%;
+}
+
+.selected {
+    border: 5px solid black;
+}
+
+.divider {
+    height: 1px;
+    border: none;
+    background-color: gainsboro;
+    margin-top: 30px;
+}

@@ -1,0 +1,25 @@
+.card-container{
+    background-color: #3d3d3d;
+    width: 80%;
+    margin: 50px auto 50px auto;
+    overflow: hidden;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.card{
+    margin: 10px;
+}
+.detail-logo{
+    width: 20%;
+    height: 20%;
+    float: right;
+    margin: -10px 20px 20px 20px; 
+}
+
+.catogery{
+    margin: 30px 50px 10px 50px;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    width: 50%;
+}

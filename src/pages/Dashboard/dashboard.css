@@ -1,0 +1,53 @@
+.dashboard_banner {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dashboard_title{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #d2d4d5;
+  padding: 10px;
+  margin: 20px;
+  font-size: 40px;
+}
+
+.dashboard_banner_button_wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.dashboard_banner_button {
+  padding: 10px 25px;
+  margin: 10px 50px;
+  border-radius: 20px;
+  border: 0;
+  background-color: #1e272e;
+  color: #fff;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+#dashboard {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#dashboard td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+#dashboard tr:nth-child(even){background-color: #f2f2f2;}
+
+#dashboard tr:hover {background-color: #ddd;}
+
+#dashboard th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
