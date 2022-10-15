@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gearmerit-react/static/css/main.7a93bb3a.css",
+    "main.js": "/gearmerit-react/static/js/main.77ae9de7.js",
+    "index.html": "/gearmerit-react/index.html",
+    "main.7a93bb3a.css.map": "/gearmerit-react/static/css/main.7a93bb3a.css.map",
+    "main.77ae9de7.js.map": "/gearmerit-react/static/js/main.77ae9de7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a93bb3a.css",
+    "static/js/main.77ae9de7.js"
+  ]
+}
